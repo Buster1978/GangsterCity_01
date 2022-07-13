@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{77F8313E-4748-95A8-2B52-A9B21EC19111}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GangsterCity_01",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
